@@ -11,7 +11,7 @@ Digant -  Scrum Master (Week 2), Dev Team Member
 Shivas -  Scrum Master (Week 3), Dev Team Member
 
 Product Backlog
-Trello: https://trello.com/braincredo
+Trello: https://trello.com/b/MCYiyHXq/product-back-log
 
 10 Backlog Items + 10 User Stories
 
