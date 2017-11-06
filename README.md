@@ -20,7 +20,7 @@ Trello: https://trello.com/b/qb2G2V5r/product-back-log
 10 Backlog Items + 10 User Stories
 
 Steakholders:
-Primary: Andrew Kiriakedes ()
+Primary: Andrew Kiriakedes (Professional Data Scientist - Accenture) https://www.linkedin.com/in/andrew-kiriakedes-565267123/
 Secondary: Peter Hernstock (Professor - Harvard Extension School) https://www.linkedin.com/in/peterhenstock/
 Additional: Hazem Salama  (Student/SE)
 Additional: Andy Roy  (AI product startup)
