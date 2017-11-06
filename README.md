@@ -3,10 +3,10 @@
 Team Name: Brain Cradle
 
 Roles:
- Devon - Product Owner, Dev Team Member
-Ailing -  Scrum Master (Week 1), Dev Team Member
-Digant -  Scrum Master (Week 2), Dev Team Member
-Shivas -  Scrum Master (Week 3), Dev Team Member
+ Devon - Product Owner, Dev Team Member;
+Ailing -  Scrum Master (Week 1), Dev Team Member;
+Digant -  Scrum Master (Week 2), Dev Team Member;
+Shivas -  Scrum Master (Week 3), Dev Team Member.
 
 Product Name: Brain Cradle
 
@@ -28,7 +28,7 @@ Additional: Andy Roy  (AI product startup)
 
 Persona:
 ========
-XXX XXX: 
+Andy Roy: 
 Bio: A results-driven technology and marketing executive with proven expertise in marketing, sales management, technology consulting, program management and product design.
 Goals: Working on AI product startup that focuses on Chatbots and predictive analytics help engage consumers along the path to purchase.
 Frustration: Not easy to stay up to date on AI trends
@@ -61,8 +61,8 @@ i) Acceptance criteria is defined
 j) dependencies identified
 
 Relative Size Estimating Activity:
-We estimated using the relative sizing story point estimation range from 1 to 21 (Planning poker range). Each estimator is holding a deck of Planning Poker cards with values like 1,2,3,5,8,13, and 21 - These were the defaults of Trello
-Members invloved in estimation (Development team only)
+We estimated using the relative sizing story point estimation range from 1 to 21 (Planning poker range). Each estimator is holding a deck of Planning Poker cards with values like 1,2,3,5,8,13, and 21 - These were the defaults of Trello. 
+Members involved in estimation (Development team only)
 - Ailing
 - Digant
 - Shivas
