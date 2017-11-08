@@ -67,5 +67,11 @@ Members involved in estimation (Development team only)
 - Digant
 - Shivas
 
+Forecast for story points: 5 for sprint 1.
+
+Rationale for forecast: Given this is our first time working as a team, we provided a conservative forecast based on different skill mix and collective estimate of throughpput we think we can achieve in this sprint.
+
+
+
 
 
