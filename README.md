@@ -60,6 +60,12 @@ h) story is defined, stable and documented
 i) Acceptance criteria is defined
 j) dependencies identified
 
+Definition of Done:
+a) Acceptance criteria completed
+b) Appropriate unit test coverage
+c) Peer review or pair/mob programming
+d) Product Owner acceptance
+
 Relative Size Estimating Activity:
 We estimated using the relative sizing story point estimation range from 1 to 21 (Planning poker range). Each estimator is holding a deck of Planning Poker cards with values like 1,2,3,5,8,13, and 21 - These were the defaults of Trello. 
 Members involved in estimation (Development team only)
