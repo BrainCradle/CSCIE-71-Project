@@ -1,0 +1,140 @@
+# Sprint 1 (11/06-11/17)
+
+## Forecast
+
+We forecasted we could get **5 story points** done during this sprint. Our forecast is on conservative side primarily based on team member skill mix and technical demands of the actual prioritized PBIs. As this is the first sprint for the Brain Cradle Team, we were not sure what our actual velocity would be. Regardless, the forecast accounted for the fact that we each would need to locally configure the project, work through the learning curve of new frameworks, and be able to iterate on our localhost before we were able to begin work on the stories that actually delivered product value. 
+The forecast correlated to the first story from our [Initial Ordered Product Backlog](https://trello.com/b/qb2G2V5r/product-back-log):
+
+| __Number__ | __Title__ | __Story Points__ | __Summary__
+| --- | --- | --- | --- |
+| 1. | Site Navigation | 5 pts | Andrew Kiriakedes (Andy) would like to be able to click on links at the top of the website that are consistent across pages, clearly outline where each link will send him, and ensures that he's only ever one click away from each of the sites primary features. |
+
+
+## Actual
+
+We had few hiccups, but were able to close on the selected user story forecasted within the sprint (reference our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md)). 
+
+### Acceptance Criteria and Sprint Task 
+
+(reference our [Sprint Task & Acceptance Criteria](https://trello.com/c/4e62yBqy/10-site-navigation)). 
+
+### Behavior-Driven Development & Unit Tests
+
+We used the [cucumber](https://cucumber.io/) framework to run our Behavior-Driven Development (BDD) tests. Specifically we tested email registration using BDD. See [email_register.feature](https://github.com/michaeljohns2/CommunityTable/blob/master/WebApp/src/test/java/features/email_register.feature), [EmailRegisterStepdefs](https://github.com/michaeljohns2/CommunityTable/blob/master/WebApp/src/test/java/stepdefs/EmailRegisterStepdefs.java), and the screenshot below (showing all tests passed). 
+   
+ ![cucumber](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/cucumber.png)
+   
+Our unit tests (used JUnit) are shown below.
+
+ ![unit](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/sprint1_unit-tests.png)
+
+## Burndown
+
+Our burndown is based on the completion of each user story's [Sprint Task Checklist](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/sprint1.md#acceptance-criteria-and-sprint-tasks) (shown above) which were decomposed from the PBIs committed to the sprint. The last item is always "Meets Definition of Done" ([ref](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint0/sprint0.md#definition-of-done)). 
+Subsequently, our Definition of Done has a checklist item for "Acceptance criteria completed" which corresponds to the specific acceptance criteria of each user story (also shown above).
+ 
+![Burndown Chart Sprint 1](https://image-charts.com/chart?cht=lc&chd=t:21.00,18.67,16.33,14.00,11.67,9.33,7.00,4.67,2.33,0.00|21.00,21.00,21.00,20.42,20.42,14.00,11.67,10.50,8.17,4.67&chco=2196F3,FF5722&chxt=_1,y&chxl=0:|1|2|3|4|5|6|7|8|9|10|&chs=600x200&chtt=Burndown%20Chart%20Sprint%201&chg=20,0,1,3)
+
+## Daily Scrums (1-day sample)
+
+### Tuesday, November 14th
+
+#### Devon
+_What did you accomplish yesterday?_
+> locally ran CommunityTable, added plugin for mvn tomcat run
+
+_What will you do today?_
+> implement cucumber tests
+
+_What obstacles are impeding your progress?_
+> none atm
+
+#### Shivas
+_What did you accomplish yesterday?_
+> I created a setup guide and tested deployments to the host server.
+
+_What will you do today?_
+> I hope to upload an example of Java->Mongo DB connection
+
+_What obstacles are impeding your progress?_
+> none atm
+
+#### Ailing
+_What did you accomplish yesterday?_
+> Gathered some images.
+
+_What will you do today?_
+> Hope to get an example Bootstrap page up and running on the server.
+
+_What obstacles are impeding your progress?_
+> Need more info on the local development env. Do I need the whole thing? Or can I just work off of the front-end side?
+
+
+### Impediments
+
+_IRP = Impediment Removal Plan_
+
+#### Digant - Nov 12th, 06:35 pm
+> Not sure how to setup development framework?
+
+IRP: Shivas provided instructions on slack to download base development framework and setup on WebStorm.
+
+#### Devon - Nov 12th, 07:46 pm
+> Where do I put the img/video folders in Angular? Do the go under each component sub-folder such as “blog” as if I were making mini websites?
+
+IRP: you can put it under resources
+
+#### Ailing - Nov 12th, 07:52 pm
+> recommendations on tools for unit test and BDD with angular
+
+IRP: Link provided on slack (https://docs.angularjs.org/guide/unit-testing)
+
+
+## Collaboration
+Our Team met as a group at least 2x per week to synchronize and elevate obstacles along our critical path; additionally, individuals teamed up to pair program in order to solve various engineering tasks.  
+
+| __Date__ | __Meeting Type__ |
+| --- | --- |
+| 03 NOV | Standing Team Meeting |
+| 07 NOV | Standing Team Meeting |
+| 10 NOV | Standing Team Meeting |
+| 13 NOV | Sprint Review & Retrospective |
+
+1. Example of a peer code review (part of our [Definition of Done](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint0/sprint0.md#definition-of-done))
+
+ ![Code Review](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/code_review.png)
+
+2. Example of an ad-hoc team meeting
+
+ ![Ad-Hoc Team Meeting](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/team_huddle.png)
+
+3. Example of a standing team meeting
+ 
+ ![Standing Team Meeting](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/Pasted%20image%20at%202016_11_07%2007_33%20PM.png)
+
+## Sprint Review and Retrospective
+
+We conducted our sprint review with stakeholders and Scrum Team retrospective 13 NOV. 
+
+### Stakeholder Feeback
+
+Our primary stakeholder is pleased with the progress and completeness of our efforts. She offered the following feedback, mostly looking towards the next sprint:
+
+- stakeholder offered additional custom content for both the landing page and welcome email (both of which are built for easy [Content Customization](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/site_template.png)).
+- when stakeholder deploys our release public (after security tasks and admin portal are completed, estimated for release2), stakeholder wants naming convention `elizabethton.communitytabletn.com` for hosting her configured site.
+- stakeholder requests that we assist her in setting up her public site and help her sort through hosting options. 
+- stakeholder wants to name the blog 'Table Talk' (estimated for release2).
+- stakeholder wants blogs to be rendered on her Community Table TN site to show summary with image and abstract and a link to expand to read all.
+- stakeholder wants to make the blog friendly for publishing to Facebook, e.g. url for each blog, Facebook able to show summary with image and abstract.
+
+This feedback will be absorbed into the product backlog (and groomed) ahead of sprint 2 planning.
+ 
+### Scrum Team Retrospective
+
+While the retrospective is a generally closed door event, we chose to share these highlights:
+
+- It took longer to get up and running across the team due to the cold-start (i.e. first sprint with no legacy to build upon) and range of technologies (reference [Product Iteration Details](https://github.com/michaeljohns2/CommunityTable/blob/master/README.md#product-iteration-oct-dec-2016)) 
+- Spring MVC framework has a rather steep learning curve. More pinpointed documentation for features we are using would really help.
+- Any changes should be communicated clearly to the team so everyone understands what is happening.
+- We will shift to all development undertaken first within feature branches, then submitted by pull request for review and acceptance or modification. This procedural change will go far to address the feedback to communicate changes and will further enforce our two-eyes minimum code review prior as part of our  [Definition of Done](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint0/sprint0.md#definition-of-done). 
+- We need to maintain tighter communication accross the team, especially in the final days of the sprint. We will solicit commitments for responsiveness on Slack at our next team meeting.
