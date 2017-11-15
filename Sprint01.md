@@ -35,39 +35,71 @@ Subsequently, our Definition of Done has a checklist item for "Acceptance criter
  
 ![Burndown Chart Sprint 1](https://image-charts.com/chart?cht=lc&chd=t:21.00,18.67,16.33,14.00,11.67,9.33,7.00,4.67,2.33,0.00|21.00,21.00,21.00,20.42,20.42,14.00,11.67,10.50,8.17,4.67&chco=2196F3,FF5722&chxt=_1,y&chxl=0:|1|2|3|4|5|6|7|8|9|10|&chs=600x200&chtt=Burndown%20Chart%20Sprint%201&chg=20,0,1,3)
 
-## Daily Scrums (1-day sample)
+## Daily Scrums (2-day sample)
+
+### Sunday, November 12th
+
+#### Devon
+_What did you accomplish yesterday?_
+> setup local environment
+
+_What will you do today?_
+> download the shell code and dev framework 
+
+_What obstacles are impeding your progress?_
+> none
+
+#### Shivas
+_What did you accomplish yesterday?_
+> I created a  basic code framework and local environment along with instructions for the team to replicate on their local.
+
+_What will you do today?_
+> Explore firebase hosting
+
+_What obstacles are impeding your progress?_
+> none
+
+#### Ailing
+_What did you accomplish yesterday?_
+> Setup local environment
+
+_What will you do today?_
+> Research BDD with angular
+
+_What obstacles are impeding your progress?_
+> No past experience on angular framework. 
 
 ### Tuesday, November 14th
 
 #### Devon
 _What did you accomplish yesterday?_
-> locally ran CommunityTable, added plugin for mvn tomcat run
+> downloaded the basic shell and worked on front end css
 
 _What will you do today?_
-> implement cucumber tests
+> expand on the front end code to build basic navigation 
 
 _What obstacles are impeding your progress?_
-> none atm
+> none
 
 #### Shivas
 _What did you accomplish yesterday?_
-> I created a setup guide and tested deployments to the host server.
+>  I deployed the shell app on firebase hosting server.
 
 _What will you do today?_
-> I hope to upload an example of Java->Mongo DB connection
+> Working on unit test cases for the app
 
 _What obstacles are impeding your progress?_
-> none atm
+> Limited knowledge on Unit Test integration with angular
 
 #### Ailing
 _What did you accomplish yesterday?_
-> Gathered some images.
+> Identified and integrated BDD framework with angular using selenium
 
 _What will you do today?_
-> Hope to get an example Bootstrap page up and running on the server.
+> Create BDD test suite
 
 _What obstacles are impeding your progress?_
-> Need more info on the local development env. Do I need the whole thing? Or can I just work off of the front-end side?
+> No past experience on angular framework. Help in form of reference articles are being provided.
 
 
 ### Impediments
