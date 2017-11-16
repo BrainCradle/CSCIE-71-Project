@@ -20,9 +20,9 @@ We had few hiccups, but were able to close on the selected user story forecasted
 
 ### Behavior-Driven Development & Unit Tests
 
-We used the [cucumber](https://cucumber.io/) framework to run our Behavior-Driven Development (BDD) tests. Specifically we tested email registration using BDD. See [email_register.feature](https://github.com/michaeljohns2/CommunityTable/blob/master/WebApp/src/test/java/features/email_register.feature), [EmailRegisterStepdefs](https://github.com/michaeljohns2/CommunityTable/blob/master/WebApp/src/test/java/stepdefs/EmailRegisterStepdefs.java), and the screenshot below (showing all tests passed). 
+We used the [cucumber](https://cucumber.io/) framework and  [selenium](http://www.seleniumhq.org/) to run our Behavior-Driven Development (BDD) tests. Specifically we tested site navigation using BDD. See the screenshot below (showing all tests passed). 
    
- ![cucumber](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/cucumber.png)
+ ![BDD](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/BDD.png)
    
 Our unit tests (used JUnit) are shown below.
 
@@ -127,22 +127,25 @@ Our Team met as a group at least 2x per week to synchronize and elevate obstacle
 
 | __Date__ | __Meeting Type__ |
 | --- | --- |
-| 03 NOV | Standing Team Meeting |
-| 07 NOV | Standing Team Meeting |
-| 10 NOV | Standing Team Meeting |
-| 13 NOV | Sprint Review & Retrospective |
+| 12 NOV | Standing Team Meeting |
+| 14 NOV | Daily Scrum |
+| 15 NOV | Standing Team Meeting |
+| 19 NOV | Sprint Review & Retrospective |
 
-1. Example of a peer code review (part of our [Definition of Done](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint0/sprint0.md#definition-of-done))
+1. Example of a peer code review (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
 
- ![Code Review](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/code_review.png)
+ ![Code Review](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/mob-program1.png)
 
-2. Example of an ad-hoc team meeting
+2. Example of a mob programming  (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
 
- ![Ad-Hoc Team Meeting](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/team_huddle.png)
+ ![Mob Programming](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/mob-program3.png)
 
 3. Example of a standing team meeting
  
- ![Standing Team Meeting](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/Pasted%20image%20at%202016_11_07%2007_33%20PM.png)
+ ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/team-collab1.png)
+ ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/team-collab2.png)
+ ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/team-collab3.png)
+ ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/team-collab4.png)
 
 ## Sprint Review and Retrospective
 
