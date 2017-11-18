@@ -26,7 +26,6 @@ Contains 10 Backlog Items + 10 User Stories
 
 
 #### Persona:
-========
 Andy Roy: 
 Bio: A results-driven technology and marketing executive with proven expertise in marketing, sales management, technology consulting, program management and product design.
 Goals: Working on AI product startup that focuses on Chatbots and predictive analytics help engage consumers along the path to purchase.
@@ -48,22 +47,38 @@ Additional Resources:
 
 #### Definition of Ready:
 The following was completed to come up with Definition of Ready
-a) Title for every product backlog item
-b) User story opening sentence
-c) Additional details
-d) Estimated in story points
-e) Persona known
-f) Stakeholders identified
-g) Due Date
-h) story is defined, stable and documented
-i) Acceptance criteria is defined
-j) dependencies identified
+
+a. Title for every product backlog item
+
+b. User story opening sentence
+
+c. Additional details
+
+d. Estimated in story points
+
+e. Persona known
+
+f. Stakeholders identified
+
+g. Due Date
+
+h. story is defined, stable and documented
+
+i. Acceptance criteria is defined
+
+j. dependencies identified
+
 
 #### Definition of Done:
-a) Acceptance criteria completed
-b) Appropriate unit test coverage
-c) Peer review or pair/mob programming
-d) Product Owner acceptance
+
+a. Acceptance criteria completed
+
+b. Appropriate unit test coverage
+
+c. Peer review or pair/mob programming
+
+d. Product Owner acceptance
+
 
 #### Relative Size Estimating Activity:
 We estimated using the relative sizing story point estimation range from 1 to 21 (Planning poker range). Each estimator is holding a deck of Planning Poker cards with values like 1,2,3,5,8,13, and 21 - These were the defaults of Trello. 
@@ -72,7 +87,7 @@ Members involved in estimation (Development team only)
 - Digant
 - Shivas
 
-#### [Refer to Sprint 1 Documentation](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint01.md)
+#### SPRINT 1: [Refer to Sprint 1 Documentation](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint01.md)
 
 
 
