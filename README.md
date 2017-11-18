@@ -1,12 +1,12 @@
 # CSCIE-71-Project
 
-Team Name: Brain Cradle
+## Team Name: Brain Cradle
 
-Roles:
- Devon - Product Owner, Dev Team Member;
-Ailing -  Scrum Master (Week 1), Dev Team Member;
-Digant -  Scrum Master (Week 2), Dev Team Member;
-Shivas -  Scrum Master (Week 3), Dev Team Member.
+### Roles:
+- Devon: Product Owner, Dev Team Member;
+- Ailing:  Scrum Master (Week 1), Dev Team Member;
+- Digant:  Scrum Master (Week 2), Dev Team Member;
+- Shivas:  Scrum Master (Week 3), Dev Team Member.
 
 Product Name: Brain Cradle
 
