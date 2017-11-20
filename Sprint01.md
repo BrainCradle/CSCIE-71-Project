@@ -157,7 +157,7 @@ Our TDD and unit tests (we have used tool called Karma) are shown below includin
 
 ![TDD fail](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TDD_Fail.png)
 
- ![unit](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TDD1.png)
+ ![unit cases passed](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TestCases_Passed.png)
  
  ![refer ot screenshot](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests.png)
  
