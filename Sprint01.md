@@ -190,8 +190,6 @@ This feedback will be absorbed into the product backlog (and groomed) ahead of s
 
 While the retrospective is a generally closed door event, we chose to share these highlights:
 
-- It took longer to get up and running across the team due to the cold-start (i.e. first sprint with no legacy to build upon) and range of technologies (reference [Product Iteration Details](https://github.com/michaeljohns2/CommunityTable/blob/master/README.md#product-iteration-oct-dec-2016)) 
-- Spring MVC framework has a rather steep learning curve. More pinpointed documentation for features we are using would really help.
-- Any changes should be communicated clearly to the team so everyone understands what is happening.
-- We will shift to all development undertaken first within feature branches, then submitted by pull request for review and acceptance or modification. This procedural change will go far to address the feedback to communicate changes and will further enforce our two-eyes minimum code review prior as part of our  [Definition of Done](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint0/sprint0.md#definition-of-done). 
-- We need to maintain tighter communication accross the team, especially in the final days of the sprint. We will solicit commitments for responsiveness on Slack at our next team meeting.
+- Angular, Karma & Firebase frameworks had an initial steep learning curve. More pinpointed documentation for features would really help in next sprint. Also framework experts should spend some time walking through the nuances of the code and best practices.
+- Despite not being local - the team has managed to leverage tools like slack, google hangouts, conference calls, Trello etc. to collaborate virtually and make progress on the sprint. 
+- However there is still no substitute to being able to work face to face in person and it took a while for the team to get comfortable and streamline commmunications. We should look for an opportunity to work together on a future sprint in person if circumstances and calendars permit.
