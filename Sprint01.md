@@ -116,25 +116,6 @@ IRP: you can put it under resources
 
 IRP: Link provided on slack (https://docs.angularjs.org/guide/unit-testing)
 
-
-### Behavior-Driven Development & Unit Tests
-
-We used the [cucumber](https://cucumber.io/) framework and  [selenium](http://www.seleniumhq.org/) to run our Behavior-Driven Development (BDD) tests. Specifically we tested site navigation using BDD. See the screenshot below (showing all tests passed). 
-   
- ![BDD](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/BDD.png)
-   
-Our unit tests (used JUnit) are shown below.
-
- ![unit](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TDD1.png)
- 
- ![refer ot screenshot](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests.png)
- 
-![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests2.png)
- 
-![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests3.png)
-
-
-
 ## Collaboration
 Our Team met as a group at least 2x per week to synchronize and elevate obstacles along our critical path; additionally, individuals teamed up to pair program in order to solve various engineering tasks.  
 
@@ -159,6 +140,26 @@ Our Team met as a group at least 2x per week to synchronize and elevate obstacle
  ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/team-collab2.png)
  ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/team-collab3.png)
  ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/team-collab4.png)
+
+
+
+### Behavior-Driven Development & Unit Tests
+
+We used the [cucumber](https://cucumber.io/) framework and  [selenium](http://www.seleniumhq.org/) to run our Behavior-Driven Development (BDD) tests. Specifically we tested site navigation using BDD. See the screenshot below (showing all tests passed). 
+   
+ ![BDD](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/BDD.png)
+   
+Our unit tests (used JUnit) are shown below.
+
+ ![unit](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TDD1.png)
+ 
+ ![refer ot screenshot](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests.png)
+ 
+![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests2.png)
+ 
+![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests3.png)
+
+
 
 ## Sprint Review and Retrospective
 
