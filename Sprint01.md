@@ -163,11 +163,11 @@ Our unit tests (used JUnit) are shown below.
 
 ## Sprint Review and Retrospective
 
-We conducted our sprint review with stakeholders and Scrum Team retrospective 13 NOV. 
+We conducted our sprint review with stakeholders and Scrum Team retrospective on NOV 19TH. 
 
 ### Stakeholder Feeback
 
-Our primary stakeholder, Andy, is pleased with the progress of our efforts. He offered the following feedback, mostly looking towards the next sprint:
+We reviewed the sprint 1 user story in production [Site Nav](https://braincradleai.firebaseapp.com) with our primary stakeholder, Andy. Andy is pleased with the progress of our efforts. He offered the following feedback, mostly looking towards the next sprint:
 
 - Overall looks clean. Clearly labeled. Font is readable. 
 - Loves the responsiveness. Woo Firebase! 
