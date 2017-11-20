@@ -14,6 +14,10 @@ The forecast correlated to the first story from our [Initial Ordered Product Bac
 
 We had few hiccups, but were able to close on the selected user story forecasted within the sprint (reference our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md)). 
 
+We deployed the user story in production at following URL:
+
+[Site Nav](https://braincradleai.firebaseapp.com)
+
 ### Acceptance Criteria and Sprint Task 
 
 (reference our [Sprint Task & Acceptance Criteria](https://trello.com/c/4e62yBqy/10-site-navigation)). 
@@ -158,14 +162,14 @@ We conducted our sprint review with stakeholders and Scrum Team retrospective 13
 
 ### Stakeholder Feeback
 
-Our primary stakeholder is pleased with the progress and completeness of our efforts. She offered the following feedback, mostly looking towards the next sprint:
+Our primary stakeholder, Andy, is pleased with the progress of our efforts. He offered the following feedback, mostly looking towards the next sprint:
 
-- stakeholder offered additional custom content for both the landing page and welcome email (both of which are built for easy [Content Customization](https://github.com/michaeljohns2/CommunityTable/blob/master/readme/sprint1/site_template.png)).
-- when stakeholder deploys our release public (after security tasks and admin portal are completed, estimated for release2), stakeholder wants naming convention `elizabethton.communitytabletn.com` for hosting her configured site.
-- stakeholder requests that we assist her in setting up her public site and help her sort through hosting options. 
-- stakeholder wants to name the blog 'Table Talk' (estimated for release2).
-- stakeholder wants blogs to be rendered on her Community Table TN site to show summary with image and abstract and a link to expand to read all.
-- stakeholder wants to make the blog friendly for publishing to Facebook, e.g. url for each blog, Facebook able to show summary with image and abstract.
+- Overall looks clean. Clearly labeled. Font is readable. 
+- Loves the responsiveness. Woo Firebase! 
+- Tab highlighting should be added as it doesn't show current tab.
+- Dual menu is confusing. Maybe have a standard top bar nav and left hand nav
+- Selecting the proper categories under the "Examples Tab" is extremely important. Prefer's the label "Examples" over "Solutions".
+- Prefers the term "Real-world Applications" to  "Applications".
 
 This feedback will be absorbed into the product backlog (and groomed) ahead of sprint 2 planning.
  
