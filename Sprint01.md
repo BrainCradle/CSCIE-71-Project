@@ -30,24 +30,6 @@ Our burndown chart, shown below, is based on the completion of each user story [
 
 ![Burndown Chart Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint1_burndown.png)
 
-
-### Behavior-Driven Development & Unit Tests
-
-We used the [cucumber](https://cucumber.io/) framework and  [selenium](http://www.seleniumhq.org/) to run our Behavior-Driven Development (BDD) tests. Specifically we tested site navigation using BDD. See the screenshot below (showing all tests passed). 
-   
- ![BDD](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/BDD.png)
-   
-Our unit tests (used JUnit) are shown below.
-
- ![unit](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TDD1.png)
- 
- ![refer ot screenshot](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests.png)
- 
-![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests2.png)
- 
-![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests3.png)
-
-
 ## Daily Scrums (2-day sample)
 
 ### Sunday, November 12th
@@ -133,6 +115,24 @@ IRP: you can put it under resources
 > recommendations on tools for unit test and BDD with angular
 
 IRP: Link provided on slack (https://docs.angularjs.org/guide/unit-testing)
+
+
+### Behavior-Driven Development & Unit Tests
+
+We used the [cucumber](https://cucumber.io/) framework and  [selenium](http://www.seleniumhq.org/) to run our Behavior-Driven Development (BDD) tests. Specifically we tested site navigation using BDD. See the screenshot below (showing all tests passed). 
+   
+ ![BDD](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/BDD.png)
+   
+Our unit tests (used JUnit) are shown below.
+
+ ![unit](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TDD1.png)
+ 
+ ![refer ot screenshot](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests.png)
+ 
+![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests2.png)
+ 
+![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests3.png)
+
 
 
 ## Collaboration
