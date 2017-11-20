@@ -153,7 +153,9 @@ We used the [cucumber](https://cucumber.io/) framework and  [selenium](http://ww
  
  BDD source code is checked here: https://github.com/irene024081/BDD-Source-Code-Week1
    
-Our unit tests (used JUnit) are shown below.
+Our TDD and unit tests (we have used tool called Karma) are shown below including a failed one and passed ones.
+
+![TDD fail](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TDD_Fail.png)
 
  ![unit](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TDD1.png)
  
@@ -163,7 +165,7 @@ Our unit tests (used JUnit) are shown below.
  
 ![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests3.png)
 
-
+The unit test cases are checked here: https://github.com/BrainCradle/BrainCradle/tree/master/braincradleapp/tests
 
 ## Sprint Review and Retrospective
 
