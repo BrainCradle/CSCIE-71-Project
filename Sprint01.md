@@ -22,6 +22,15 @@ We deployed the user story in production at following URL:
 
 (reference our [Sprint Task & Acceptance Criteria](https://trello.com/c/4e62yBqy/10-site-navigation)). 
 
+## Burndown
+
+Our burndown chart, shown below, is based on the completion of each user story [Refer to User Story in Trello](https://trello.com/c/4e62yBqy/10-site-navigation) which were decomposed from the PBIs committed to the sprint. 
+
+![Burndown Data for Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint1_burndown_excel.png)
+
+![Burndown Chart Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint1_burndown.png)
+
+
 ### Behavior-Driven Development & Unit Tests
 
 We used the [cucumber](https://cucumber.io/) framework and  [selenium](http://www.seleniumhq.org/) to run our Behavior-Driven Development (BDD) tests. Specifically we tested site navigation using BDD. See the screenshot below (showing all tests passed). 
@@ -38,13 +47,6 @@ Our unit tests (used JUnit) are shown below.
  
 ![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests3.png)
 
-## Burndown
-
-Our burndown chart, shown below, is based on the completion of each user story [Refer to User Story in Trello](https://trello.com/c/4e62yBqy/10-site-navigation) which were decomposed from the PBIs committed to the sprint. 
-
-![Burndown Data for Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint1_burndown_excel.png)
-
-![Burndown Chart Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint1_burndown.png)
 
 ## Daily Scrums (2-day sample)
 
