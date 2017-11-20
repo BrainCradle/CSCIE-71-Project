@@ -28,11 +28,11 @@ Our unit tests (used JUnit) are shown below.
 
  ![unit](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TDD1.png)
  
- ![unit tests] (https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests.png)
+ ![refer ot screenshot](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests.png)
  
- ![unit tests] (https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests2.png)
+![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests2.png)
  
- ![unit tests] (https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests3.png)
+![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests3.png)
 
 ## Burndown
 
