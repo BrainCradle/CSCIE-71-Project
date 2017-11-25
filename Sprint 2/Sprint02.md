@@ -129,24 +129,22 @@ Our Team met as a group at least 2x per week to synchronize and elevate obstacle
 
 1. Example of a peer code review (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
 
- ![Code Review](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/mob-program1.png)
+ ![Code Review](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/mob-program1.png)
 
 2. Example of a mob programming  (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
 
- ![Mob Programming](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/mob-program3.png)
+ ![Mob Programming](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/mob-program1.png)
 
 3. Example of a standing team meeting
  
- ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/team-collab1.png)
- ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/team-collab2.png)
- ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/team-collab3.png)
- ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/team-collab4.png)
-
-
+ ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/CollabPic1.png)
+ ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/CollabPic2.png)
+ ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/CollabPic3.png)
+ 
 
 ### Behavior-Driven Development & Unit Tests
 
-We used the [cucumber](https://cucumber.io/) framework and  [selenium](http://www.seleniumhq.org/) to run our Behavior-Driven Development (BDD) tests. Specifically we tested site navigation using BDD. See the screenshots below (showing test failed and then passed). 
+We continued to use the [cucumber](https://cucumber.io/) framework and  [selenium](http://www.seleniumhq.org/) to run our Behavior-Driven Development (BDD) tests. Specifically we tested navigation enhancements using BDD. See the screenshots below (showing test failed and then passed). 
 
 ![BDD Fail Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/BDD_Fail_Case.png)
    
@@ -194,3 +192,6 @@ While the retrospective is a generally closed door event, we chose to share thes
 - Angular, Karma & Firebase frameworks had an initial steep learning curve. More pinpointed documentation for features would really help in next sprint. Also framework experts should spend some time walking through the nuances of the code and best practices.
 - Despite not being local - the team has managed to leverage tools like slack, google hangouts, conference calls, Trello etc. to collaborate virtually and make progress on the sprint. 
 - However there is still no substitute to being able to work face to face in person and it took a while for the team to get comfortable and streamline commmunications. We should look for an opportunity to work together on a future sprint in person if circumstances and calendars permit.
+
+### Continuous Integration / Continuous Deployment
+We also solidified our CI/CD process in this sprint (brainstormed in sprint1).
