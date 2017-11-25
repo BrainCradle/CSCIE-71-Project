@@ -1,13 +1,17 @@
-# Sprint 1 (11/06-11/17)
+# Sprint 2 (11/20-12/01)
 
 ## Forecast
 
-We forecasted we could get **5 story points** done during this sprint. Our forecast is on conservative side primarily based on team member skill mix and technical demands of the actual prioritized PBIs. As this is the first sprint for the Brain Cradle Team, we were not sure what our actual velocity would be. Regardless, the forecast accounted for the fact that we each would need to locally configure the project, work through the learning curve of new frameworks, and be able to iterate on our localhost before we were able to begin work on the stories that actually delivered product value. 
-The forecast correlated to the first story from our [Initial Ordered Product Backlog](https://trello.com/b/qb2G2V5r/product-back-log):
+We forecasted that we could get **10 story points** done during this sprint. We forecasted double value than sprint 1 (5 points), even after accounting for the Thanksgiving Holiday plans of team members, using Yesterday's Weather Forecasting Pattern. Based on past sprint we feel that our normalized velocity can be four times of what we accomplished in sprint 1, (i.e. 20 points), but given thanksgiving holidays we factored a 50% capacity for the team and hence arrived at 10 story points (i.e. 50% of 20 points).
+
+The forecast correlated to the next four stories from our [Initial Ordered Product Backlog](https://trello.com/b/qb2G2V5r/product-back-log), with the 'Navigation Enhancements' Page story being introduced based on stakeholder feedback after release 1.
 
 | __Number__ | __Title__ | __Story Points__ | __Summary__
 | --- | --- | --- | --- |
-| 1. | Site Navigation | 5 pts | Andrew Kiriakedes (Andy) would like to be able to click on links at the top of the website that are consistent across pages, clearly outline where each link will send him, and ensures that he's only ever one click away from each of the sites primary features. |
+| 1. | 'Navigation Enhancements' feature | 2 pts | As a site user, Andy wants tabs to be highlighted to show the current tab and would like a top nav and left nav, instead of dual menus, for easier navigation of the site. |
+| 2. | 'User Comments' Blog Feature | 3 pts | As a blogger, Andy can leave comments on blog posts to share thoughts, ask the author questions, or discuss ideas with other users. Further as a user Andy would like username and profile image to appear beside the content of his comment so that other user's can clearly identify his comments from other user's comments. Furthermore, other users should be able to "like", "dislike", or "flag" any comments for offensive or inappropriate language. |
+| 3. | 'Neural Net Overview' Content| 3 pts | AAndy wants to share an overview with clients that helps them learn the fundamentals about Machine Learning & AI; what makes a Neural Network different from a Web Application; examples of popular real world applications; and, what AI means for the future of business and the human race as a whole. It should include a detailed explanation of their architecture complete with graphics, what they look like under the hood, and the parameters that are used in practice to develop and tweak them as models. |
+| 4. | 'Tagging' Blog Feature | 2 pts | Andy can use tags associated with each blog posts and solution page to search for, filter results based on "Real World Application", "Class of Neural Network", topic, industry, etc., making it easier to find the content he is looking for. |
 
 
 ## Actual
@@ -20,7 +24,15 @@ We deployed the user story in production at following URL:
 
 ### Acceptance Criteria and Sprint Task 
 
-(reference our [Sprint Task & Acceptance Criteria](https://trello.com/c/4e62yBqy/10-site-navigation)). 
+Reference our Sprint Task & Acceptance Criteria:
+
+![Navigation Enhacements](https://trello.com/c/VS9duhzI/30-navigation-enhancements). 
+
+![User Comments](https://trello.com/c/7beM3E70/4-user-comments)
+
+![Neural Net Overview](https://trello.com/c/5un5qPPc/9-neural-net-overview)
+
+![Tagging](https://trello.com/c/xOuJ6IcK/8-tagging)
 
 ## Burndown
 
@@ -32,99 +44,88 @@ Our burndown chart, shown below, is based on the completion of each user story [
 
 ## Daily Scrums (2-day sample)
 
-### Sunday, November 12th
-
-#### Devon
+### Monday, November 20th
+#### Digant
 _What did you accomplish yesterday?_
-> setup local environment
+> Decomposed stories into tasks
 
 _What will you do today?_
-> download the shell code and dev framework 
+> Research on content for blogs
 
 _What obstacles are impeding your progress?_
 > none
 
 #### Shivas
 _What did you accomplish yesterday?_
-> I created a  basic code framework and local environment along with instructions for the team to replicate on their local.
+> Worked on navigation enhancements.
 
 _What will you do today?_
-> Explore firebase hosting
+> Continue working on navigation enhancements.
 
 _What obstacles are impeding your progress?_
 > none
 
 #### Ailing
 _What did you accomplish yesterday?_
-> Setup local environment
+> Worked on blog features
 
 _What will you do today?_
-> Research BDD with angular
+> Continue working on blog features
 
 _What obstacles are impeding your progress?_
-> No past experience on angular framework. 
+> None
 
-### Tuesday, November 14th
+### Sunday, November 25th
 
-#### Devon
+#### Digant
 _What did you accomplish yesterday?_
-> downloaded the basic shell and worked on front end css
+> Content for Blogs 
 
 _What will you do today?_
-> expand on the front end code to build basic navigation 
+> Content for Neural Net pages
 
 _What obstacles are impeding your progress?_
 > none
 
 #### Shivas
 _What did you accomplish yesterday?_
->  I deployed the shell app on firebase hosting server.
+>  Reasearch on CI/CD.
 
 _What will you do today?_
-> Working on unit test cases for the app
+> Continue working on CI/CD
 
 _What obstacles are impeding your progress?_
-> Limited knowledge on Unit Test integration with angular
+> Limited experience on CI/CD tools
 
 #### Ailing
 _What did you accomplish yesterday?_
-> Identified and integrated BDD framework with angular using selenium
+> Neural Net Overview Page
 
 _What will you do today?_
-> Create BDD test suite
+> Update BDD test suite
 
 _What obstacles are impeding your progress?_
-> No past experience on angular framework. Help in form of reference articles are being provided.
+> None.
 
 
 ### Impediments
 
 _IRP = Impediment Removal Plan_
 
-#### Digant - Nov 12th, 06:35 pm
-> Not sure how to setup development framework?
+#### Shivas - Nov 22nd, 06:45 pm
+> Not sure how to setup CI/CD framework?
 
-IRP: Shivas provided instructions on slack to download base development framework and setup on WebStorm.
-
-#### Devon - Nov 12th, 07:46 pm
-> Where do I put the img/video folders in Angular? Do the go under each component sub-folder such as “blog” as if I were making mini websites?
-
-IRP: you can put it under resources
-
-#### Ailing - Nov 12th, 07:52 pm
-> recommendations on tools for unit test and BDD with angular
-
-IRP: Link provided on slack (https://docs.angularjs.org/guide/unit-testing)
+IRP: Links provided on slack (https://medium.com/@ved.pandey/setting-up-jenkins-on-mac-osx-50d8fe16df9f) and (https://houssein.me/continuous-integration-angular-firebase-travisci)
 
 ## Collaboration
 Our Team met as a group at least 2x per week to synchronize and elevate obstacles along our critical path; additionally, individuals teamed up to pair program in order to solve various engineering tasks.  
 
 | __Date__ | __Meeting Type__ |
 | --- | --- |
-| 12 NOV | Standing Team Meeting |
-| 14 NOV | Daily Scrum |
-| 15 NOV | Standing Team Meeting |
-| 19 NOV | Sprint Review & Retrospective |
+| 20 NOV | Daily Scrum |
+| 22 NOV | Standing Team meeting |
+| 26 NOV | Daily Scrum |
+| 02 Dec | Sprint Review & Retrospective |
 
 1. Example of a peer code review (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
 
