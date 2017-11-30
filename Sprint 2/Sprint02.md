@@ -133,7 +133,7 @@ Our Team met as a group at least 2x per week to synchronize and elevate obstacle
 
 2. Example of a mob programming  (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
 
- ![Mob Programming](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/mob-program1.png)
+ ![Mob Programming](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/mob-program2.png)
 
 3. Example of a standing team meeting
  
