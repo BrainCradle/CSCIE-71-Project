@@ -123,9 +123,10 @@ Our Team met as a group at least 2x per week to synchronize and elevate obstacle
 | __Date__ | __Meeting Type__ |
 | --- | --- |
 | 20 NOV | Daily Scrum |
-| 22 NOV | Standing Team meeting |
+| 22 NOV | Mob Programming |
 | 26 NOV | Daily Scrum |
-| 02 Dec | Sprint Review & Retrospective |
+| 01 DEC |Standing Team Meeting |
+| 03 Dec | Sprint Review & Retrospective |
 
 1. Example of a peer code review (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
 
@@ -133,7 +134,7 @@ Our Team met as a group at least 2x per week to synchronize and elevate obstacle
 
 2. Example of a mob programming  (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
 
- ![Mob Programming](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/mob-program2.png)
+ ![Mob Programming](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/mob-program3.png)
 
 3. Example of a standing team meeting
  
