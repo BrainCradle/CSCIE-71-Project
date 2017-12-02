@@ -197,7 +197,10 @@ While the retrospective is a generally closed door event, we chose to share thes
 We also solidified our CI/CD process in this sprint (started in sprint1).
 ![CI process](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/CI-CD.png)
 
-Travis CI is a continuous integration platform we are using with your Github projects. Using Travis we have Build Pushes and Build Pull Requests turned ON. This means that anytime we push our changes to our Github repository or merge a pull-request, Travis CI will trigger a build and runs  tests every time we push to our branch (or merge a pull request) - see image below. Once the build succeeds we then it triggers a script to deploy the build to Firebase in poduction.
+Travis CI is a continuous integration platform we are using with your Github projects. Using Travis we have Build Pushes and Build Pull Requests turned ON. This means that anytime we push our changes to our Github repository or merge a pull-request, Travis CI will trigger a build and runs  tests every time we push to our branch (or merge a pull request) - see image below. Once the build succeeds it triggers a script to deploy the build to Firebase in production.
+
+ ![Travis Process](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/mob-program2.png)
 
 ![Travis process](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/Travis_pic.png)
+
 
