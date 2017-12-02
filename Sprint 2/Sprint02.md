@@ -150,7 +150,7 @@ We continued to use the [cucumber](https://cucumber.io/) framework and  [seleniu
    
  ![BDD Pass Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/BDD-pass.png)
  
- BDD source code is checked here: https://github.com/BrainCradle/BrainCradle/tree/master/BDD/BrainCradleTest
+ BDD source code is checked here: https://github.com/BrainCradle/BrainCradle/tree/master/BDD
    
 Our TDD and unit tests (we have used tool called Karma) are shown below including a failed one and passed ones.
 
