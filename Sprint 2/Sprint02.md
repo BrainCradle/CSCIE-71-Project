@@ -173,7 +173,7 @@ We conducted our sprint review with stakeholders and Scrum Team retrospective on
 
 ### Sprint Review Stakeholder Feeback
 
-We reviewed the sprint 2 user story in production [Site Nav](https://braincradleai.firebaseapp.com) with an AI student stakeholder, Hazem Salama, who is a software engineer with Verizon Communications and a student at Harvard Extension School. Hazem is pleased with the progress of our efforts. She offered the following feedback on the blog functionality, mostly looking towards the next sprint:
+We reviewed the sprint 2 user story in production [User Comments for Blogs](https://braincradleai.firebaseapp.com/#/blogs) with an AI student stakeholder, Hazem Salama, who is a software engineer with Verizon Communications and a student at Harvard Extension School. Hazem is pleased with the progress of our efforts. She offered the following feedback on the blog functionality, mostly looking towards the next sprint:
 
 - I like the simple design of the blog and it looks very pleasing
 - The navigation is easy and not complicated
