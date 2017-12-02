@@ -173,26 +173,24 @@ We conducted our sprint review with stakeholders and Scrum Team retrospective on
 
 ### Sprint Review Stakeholder Feeback
 
-We reviewed the sprint 1 user story in production [Site Nav](https://braincradleai.firebaseapp.com) with our primary stakeholder, Andy.
-![Andy Call Log](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Andy_Review_Call.png)
-Andy is pleased with the progress of our efforts. He offered the following feedback, mostly looking towards the next sprint:
+We reviewed the sprint 2 user story in production [Site Nav](https://braincradleai.firebaseapp.com) with an AI student stakeholder, Hazem Salama, who is a software engineer with Verizon Communications and a student at Harvard Extension School. Hazem is pleased with the progress of our efforts. She offered the following feedback on the blog functionality, mostly looking towards the next sprint:
 
-- Overall looks clean. Clearly labeled. Font is readable. 
-- Loves the responsiveness. Woo Firebase! 
-- Tab highlighting should be added as it doesn't show current tab.
-- Dual menu is confusing. Maybe have a standard top bar nav and left hand nav
-- Selecting the proper categories under the "Examples Tab" is extremely important. Prefer's the label "Examples" over "Solutions".
-- Prefers the term "Real-world Applications" to  "Applications".
+- I like the simple design of the blog and it looks very pleasing
+- The navigation is easy and not complicated
+- I cannot vote up blog entries
+- When I try to enter a comment but decide to cancel, the cancel button does not function as expected
+- Tab order is not working as expected
+- When I expand a blog entry to read the full blog and press the back button then it takes me back to previous page. Its slightly confusing
 
-This feedback will be absorbed into the product backlog (and groomed) ahead of sprint 2 planning.
+This feedback will be absorbed into the product backlog (and groomed) ahead of sprint 3 planning.
  
 ### Scrum Team Retrospective
 
 While the retrospective is a generally closed door event, we chose to share these highlights:
 
-- Angular, Karma & Firebase frameworks had an initial steep learning curve. More pinpointed documentation for features would really help in next sprint. Also framework experts should spend some time walking through the nuances of the code and best practices.
-- Despite not being local - the team has managed to leverage tools like slack, google hangouts, conference calls, Trello etc. to collaborate virtually and make progress on the sprint. 
-- However there is still no substitute to being able to work face to face in person and it took a while for the team to get comfortable and streamline commmunications. We should look for an opportunity to work together on a future sprint in person if circumstances and calendars permit.
+- Finalzing right CI/CD framework took time as there were many choices. Narrowing focus to couple of frameworks and quick pocs helped finalize the right tool.
+- There was confusion on Sprint 1 feedback/grades from Richard. Clarifying it on slack channel helped provide feedback on how to improve in Sprint 2
+- Having more frequent standup meetings (virtually using google hangouts) helped streamline collaboration compared to Sprint 1 and we should continue this for Sprint 3
 
 ### Continuous Integration / Continuous Deployment
 We also solidified our CI/CD process in this sprint (started in sprint1).
