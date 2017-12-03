@@ -28,15 +28,23 @@ We deployed the user stories in production at following URL:
 
 ### Acceptance Criteria and Sprint Task 
 
-Reference our Sprint Task & Acceptance Criteria:
+Reference our Sprint Tasks & Acceptance Criteria:
+
+1. what is AI
 
 ![What is AI](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/What-is-AI.png). 
 
-![User Comments](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Comments.png)
+2. User Comments
 
-![User Auth](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth.png)
+![User Comments](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Comments.png).
 
-![Navigation Experience](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/NavExperience.png)
+3. User Authentication
+
+![User Auth](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth.png).
+
+4. Navigation Experience
+
+![Navigation Experience](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/NavExperience.png).
 
 ## Burndown
 
