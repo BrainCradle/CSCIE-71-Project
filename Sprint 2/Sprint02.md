@@ -2,16 +2,22 @@
 
 ## Forecast
 
-We forecasted that we could get **10 story points** done during this sprint. We forecasted double value than sprint 1 (5 points), even after accounting for the Thanksgiving Holiday plans of team members, using Yesterday's Weather Forecasting Pattern. Based on past sprint we feel that our normalized velocity can be four times of what we accomplished in sprint 1, (i.e. 20 points), but given thanksgiving holidays we factored a 50% capacity for the team and hence arrived at 10 story points (i.e. 50% of 20 points).
+We forecasted that we could get **13 story points** done during this sprint. We forecasted much higher value than sprint 1 (15 points), even after accounting for the Thanksgiving Holiday plans of team members, using Yesterday's Weather Forecasting Pattern. Based on past sprint we feel that our normalized velocity can be three times of what we accomplished in sprint 1, (i.e. 15 points), but given thanksgiving holidays we factored a 80-90% capacity for the team and hence arrived at 13 story points.
 
-The forecast correlated to the next four stories from our [Initial Ordered Product Backlog](https://trello.com/b/qb2G2V5r/product-back-log), with the 'Navigation Enhancements' Page story being introduced based on stakeholder feedback after release 1.
+The forecast correlated to the next six stories from our [Initial Ordered Product Backlog](https://trello.com/b/qb2G2V5r/product-back-log), with the 'Navigation Experience' Page story being introduced based on stakeholder feedback after release 1.
 
 | __Number__ | __Title__ | __Story Points__ | __Summary__
 | --- | --- | --- | --- |
-| 1. | 'Navigation Enhancements' feature | 2 pts | As a site user, Andy wants tabs to be highlighted to show the current tab and would like a top nav and left nav, instead of dual menus, for easier navigation of the site. |
+| 1. | 'What is AI' page | 3 pts |As a site owner, Andy wants to share an overview with clients that helps them learn the fundamentals about Machine Learning & AI; what makes a Neural Network different from a Web Application; examples of popular real world applications; and, what AI means for the future of business and the human race as a whole.
+ |
 | 2. | 'User Comments' Blog Feature | 3 pts | As a blogger, Andy can leave comments on blog posts to share thoughts, ask the author questions, or discuss ideas with other users. Further as a user Andy would like username and profile image to appear beside the content of his comment so that other user's can clearly identify his comments from other user's comments. Furthermore, other users should be able to "like", "dislike", or "flag" any comments for offensive or inappropriate language. |
-| 3. | 'Neural Net Overview' Content| 3 pts | AAndy wants to share an overview with clients that helps them learn the fundamentals about Machine Learning & AI; what makes a Neural Network different from a Web Application; examples of popular real world applications; and, what AI means for the future of business and the human race as a whole. It should include a detailed explanation of their architecture complete with graphics, what they look like under the hood, and the parameters that are used in practice to develop and tweak them as models. |
-| 4. | 'Tagging' Blog Feature | 2 pts | Andy can use tags associated with each blog posts and solution page to search for, filter results based on "Real World Application", "Class of Neural Network", topic, industry, etc., making it easier to find the content he is looking for. |
+| 3. | 'User Authentication for Blogs' Blog Feature| 2 pts | As a blogger, Andy wants that other users can clearly identify him from other bloggers. Also, he would like to edit his blogs. For his convenience, Andy wants to be able to log in with his Facebook/Google/Email address.|
+| 4. | 'Navigation Experience' site feature | 2 pts | As a site user, Andy wants tabs to be highlighted to show the current tab and would like a top nav and left nav, instead of dual menus, for easier navigation of the site.|
+| 5. | 'Static Tagging for Category Assignment' Blog Feature | 2 pts | As a site administrator, Andy can use tags and associate it with each blog post so users can eventually filter results based on tags. Here is an initial tag list  "Real World Application", "Class of Neural Network", "Chat Bots", Speech Recognition", "Machine Learning", "Class of Artificial Intelligence".|
+| 5. | 'Upvoting/Downvoting for blogs' Blog Feature | 3 pts | 
+As a site user, Andy wants users to be able up-vote and down-vote blog posts so that the community can filter the best content to the top.|
+
+
 
 
 ## Actual
