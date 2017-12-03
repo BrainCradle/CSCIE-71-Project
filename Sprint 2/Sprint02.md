@@ -22,9 +22,9 @@ The forecast correlated to the next six stories from our [Initial Ordered Produc
 
 We had few hiccups, but were able to close on the selected user story forecasted within the sprint (reference our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md)). 
 
-We deployed the user story in production at following URL:
+We deployed the user stories in production at following URL:
 
-[Site Nav](https://braincradleai.firebaseapp.com)
+[Prod Site](https://braincradleai.firebaseapp.com)
 
 ### Acceptance Criteria and Sprint Task 
 
