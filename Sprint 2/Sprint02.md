@@ -156,16 +156,16 @@ We continued to use the [cucumber](https://cucumber.io/) framework and  [seleniu
 Our TDD and unit tests (we have used tool called Karma) are shown below including a failed one and passed ones.
 
 ![TDD fail](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TDD-fail.png)
+
+
 ![TDD fail2](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/TDD-pass.png)
 
 
- ![unit cases passed](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/BDD-pass.png)
+![Unit cases passed](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/TestCases-Passed.png)
  
- ![refer ot screenshot](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests.png)
+  
+![Refer to console](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/TDD-success.png)
  
-![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests2.png)
- 
-![unit tests](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/UnitTests3.png)
 
 The unit test cases are checked here: https://github.com/BrainCradle/BrainCradle/tree/master/braincradleapp/tests
 
