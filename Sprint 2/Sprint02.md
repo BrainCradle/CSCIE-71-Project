@@ -6,18 +6,16 @@ We forecasted that we could get **13 story points** done during this sprint. We 
 
 The forecast correlated to the next six stories from our [Initial Ordered Product Backlog](https://trello.com/b/qb2G2V5r/product-back-log), with the 'Navigation Experience' Page story being introduced based on stakeholder feedback after release 1.
 
+
+
 | __Number__ | __Title__ | __Story Points__ | __Summary__
 | --- | --- | --- | --- |
-| 1. | 'What is AI' page | 3 pts |As a site owner, Andy wants to share an overview with clients that helps them learn the fundamentals about Machine Learning & AI; what makes a Neural Network different from a Web Application; examples of popular real world applications; and, what AI means for the future of business and the human race as a whole.
- |
-| 2. | 'User Comments' Blog Feature | 3 pts | As a blogger, Andy can leave comments on blog posts to share thoughts, ask the author questions, or discuss ideas with other users. Further as a user Andy would like username and profile image to appear beside the content of his comment so that other user's can clearly identify his comments from other user's comments. Furthermore, other users should be able to "like", "dislike", or "flag" any comments for offensive or inappropriate language. |
-| 3. | 'User Authentication for Blogs' Blog Feature| 2 pts | As a blogger, Andy wants that other users can clearly identify him from other bloggers. Also, he would like to edit his blogs. For his convenience, Andy wants to be able to log in with his Facebook/Google/Email address.|
-| 4. | 'Navigation Experience' site feature | 2 pts | As a site user, Andy wants tabs to be highlighted to show the current tab and would like a top nav and left nav, instead of dual menus, for easier navigation of the site.|
-| 5. | 'Static Tagging for Category Assignment' Blog Feature | 2 pts | As a site administrator, Andy can use tags and associate it with each blog post so users can eventually filter results based on tags. Here is an initial tag list  "Real World Application", "Class of Neural Network", "Chat Bots", Speech Recognition", "Machine Learning", "Class of Artificial Intelligence".|
-| 5. | 'Upvoting/Downvoting for blogs' Blog Feature | 3 pts | 
-As a site user, Andy wants users to be able up-vote and down-vote blog posts so that the community can filter the best content to the top.|
-
-
+| 1. | 'What is AI' page| 3 pts | As a site owner, Andy wants to share an overview with clients that helps them learn the fundamentals about Machine Learning & AI; what makes a Neural Network different from a Web Application; examples of popular real world applications; and, what AI means for the future of business and the human race as a whole. |
+| 2. | 'User Comments' Blog Feature | 3 pts | As a blogger, Andy can leave comments on blog posts to share thoughts, ask the author questions, or discuss ideas with other users. Further as a user Andy would like username and profile image to appear beside the content of his comment so that other user's can clearly identify his comments from other user's comments. Furthermore, other users should be able to "like", "dislike", or "flag" any comments for offensive or inappropriate language.  |
+| 3. | 'User Authentication for Blogs' Blog Feature | 2 pts | As a blogger, Andy wants that other users can clearly identify him from other bloggers. Also, he would like to edit his blogs. For his convenience, Andy wants to be able to log in with his Facebook/Google/Email address. |
+| 4. | 'Navigation Experience' site feature | 2 pts | As a site user, Andy wants tabs to be highlighted to show the current tab and would like a top nav and left nav, instead of dual menus, for easier navigation of the site. |
+| 5. | 'Static Tagging for Category Assignment' Blog Feature | 2 pts | As a site administrator, Andy can use tags and associate it with each blog post so users can eventually filter results based on tags. Here is an initial tag list  "Real World Application", "Class of Neural Network", "Chat Bots", Speech Recognition", "Machine Learning", "Class of Artificial Intelligence". |
+| 6. | 'Upvoting/Downvoting for blogs' Blog Feature | 3 pts | As a site user, Andy wants users to be able up-vote and down-vote blog posts so that the community can filter the best content to the top. |
 
 
 ## Actual
@@ -32,21 +30,21 @@ We deployed the user story in production at following URL:
 
 Reference our Sprint Task & Acceptance Criteria:
 
-![Navigation Enhacements](https://trello.com/c/VS9duhzI/30-navigation-enhancements). 
+![What is AI](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/What-is-AI.png). 
 
-![User Comments](https://trello.com/c/7beM3E70/4-user-comments)
+![User Comments](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Comments.png)
 
-![Neural Net Overview](https://trello.com/c/5un5qPPc/9-neural-net-overview)
+![User Auth](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth.png)
 
-![Tagging](https://trello.com/c/xOuJ6IcK/8-tagging)
+![Navigation Experience](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/NavExperience.png)
 
 ## Burndown
 
-Our burndown chart, shown below, is based on the completion of each user story [Refer to User Story in Trello](https://trello.com/c/4e62yBqy/10-site-navigation) which were decomposed from the PBIs committed to the sprint. 
+Our burndown chart, shown below, is based on the completion of each user story [Refer to Trello for Stories "Done in Sprint 2"](https://trello.com/b/qb2G2V5r/product-back-log) which were decomposed from the PBIs committed to the sprint. 
 
-![Burndown Data for Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint1_burndown_excel.png)
+![Burndown Data for Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/sprint2-burndown-excel.png)
 
-![Burndown Chart Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint1_burndown.png)
+![Burndown Chart Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/sprint2-burndown-chart.png)
 
 ## Daily Scrums (2-day sample)
 
