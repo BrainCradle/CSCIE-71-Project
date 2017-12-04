@@ -26,25 +26,33 @@ We deployed the 4 user stories (What is AI, User Comments on Blogs, User Authent
 
 [Prod Site](https://braincradleai.firebaseapp.com)
 
-### Acceptance Criteria and Sprint Task 
+### Prod Screens, Acceptance Criteria and Sprint Task 
 
 Reference our Sprint Tasks & Acceptance Criteria:
 
 1. what is AI
 
+![What is AI Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/AI-Home.png).
+
 ![What is AI](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/What-is-AI.png). 
 
 2. User Comments
+
+![User Comments Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Comments_screen.png).
 
 ![User Comments](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Comments.png).
 
 3. User Authentication
 
+![User Auth Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth-Screen.png).
+
 ![User Auth](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth.png).
 
 4. Navigation Experience
 
-![Navigation Experience](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/NavExperience.png).
+![Navigation Experience Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/Nav-Screen.png).
+
+![Navigation Experience](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/NavExperience2.png).
 
 ## Burndown
 
@@ -187,7 +195,7 @@ We conducted our sprint review with stakeholders and Scrum Team retrospective on
 
 ### Sprint Review Stakeholder Feeback
 
-We reviewed the sprint 2 user story in production [User Comments for Blogs](https://braincradleai.firebaseapp.com/#/blogs) with an AI student stakeholder, Hazem Salama, who is a software engineer with Verizon Communications and a student at Harvard Extension School. Hazem is pleased with the progress of our efforts. She offered the following feedback on the blog functionality, mostly looking towards the next sprint:
+We reviewed the sprint 2 user story in production [User Comments for Blogs](https://braincradleai.firebaseapp.com/#/blogs) with an AI student stakeholder, Hazem Salama, who is a software engineer with Verizon Communications and a student at Harvard Extension School. Hazem is pleased with the progress of our efforts. He offered the following feedback on the blog functionality, mostly looking towards the next sprint:
 
 - I like the simple design of the blog and it looks very pleasing
 - The navigation is easy and not complicated
@@ -202,9 +210,9 @@ This feedback will be absorbed into the product backlog (and groomed) ahead of s
 
 While the retrospective is a generally closed door event, we chose to share these highlights:
 
-- Finalzing right CI/CD framework took time as there were many choices. Narrowing focus to couple of frameworks and quick pocs helped finalize the right tool.
+- Finalzing right CI/CD framework took time as there were many choices. Narrowing focus to couple of frameworks and quick PoCs helped finalize the right tool.
 - There was confusion on Sprint 1 feedback/grades from Richard. Clarifying it on slack channel helped provide feedback on how to improve in Sprint 2
-- Having more frequent standup meetings (virtually using google hangouts) helped streamline collaboration compared to Sprint 1 and we should continue this for Sprint 3
+- Not having product owner available during holidays hampered our ability to complete couple of stories as we needed clarification on the story. We then came to an agreement with product owner that we would deliver only 4 stories since the sprint window was too short post clarification. To mitigate this we have now obtained emergency contact details of the entire team in case we need to reach anybody on emergency basis.
 
 ### Continuous Integration / Continuous Deployment
 We also solidified our CI/CD process in this sprint (started in sprint1).
