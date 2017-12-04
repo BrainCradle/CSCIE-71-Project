@@ -89,6 +89,8 @@ Members involved in estimation (Development team only)
 
 #### SPRINT 1: [Refer to Sprint 1 Documentation](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint01.md)
 
+#### SPRINT 2: [Refer to Sprint 1 Documentation](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/Sprint02.md)
+
 
 
 
