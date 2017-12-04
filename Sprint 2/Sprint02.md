@@ -17,6 +17,11 @@ The forecast correlated to the next six stories from our [Initial Ordered Produc
 | 5. | 'Static Tagging for Category Assignment' Blog Feature | 2 pts | As a site administrator, Andy can use tags and associate it with each blog post so users can eventually filter results based on tags. Here is an initial tag list  "Real World Application", "Class of Neural Network", "Chat Bots", Speech Recognition", "Machine Learning", "Class of Artificial Intelligence". |
 | 6. | 'Upvoting/Downvoting for blogs' Blog Feature | 3 pts | As a site user, Andy wants users to be able up-vote and down-vote blog posts so that the community can filter the best content to the top. |
 
+## Kanban Board
+
+We are continuing to use [Trello](https://trello.com/b/qb2G2V5r/product-back-log) as our Kanban Board and screenshot provided below:
+
+![Kanban Board](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/kanban-board.png).
 
 ## Actual
 
