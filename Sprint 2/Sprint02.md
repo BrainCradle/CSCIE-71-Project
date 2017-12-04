@@ -20,9 +20,9 @@ The forecast correlated to the next six stories from our [Initial Ordered Produc
 
 ## Actual
 
-We had few hiccups, but were able to close on the selected user story forecasted within the sprint (reference our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md)). 
+We had few hiccups because of unavailability of product owenr during Thanksgiving holidays for clarification on stories, so were able to close only on **4 user stories / 8 story points as against 6 user stories / 15 story points forecasted within the sprint **
 
-We deployed the user stories in production at following URL:
+We deployed the 4 user stories in production at following URL:
 
 [Prod Site](https://braincradleai.firebaseapp.com)
 
