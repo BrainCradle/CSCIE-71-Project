@@ -63,7 +63,7 @@ Reference our Sprint Tasks & Acceptance Criteria:
 
 Our burndown chart, shown below, is based on the completion of each user story [Refer to Trello for Stories "Done in Sprint 2"](https://trello.com/b/qb2G2V5r/product-back-log) which were decomposed from the PBIs committed to the sprint. 
 
-![Burndown Data for Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/sprint2-burndown-excel.png)
+![Burndown Data for Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/sprint2-burndown-excel2.png)
 
 ![Burndown Chart Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/sprint2-burndown-chart.png)
 
