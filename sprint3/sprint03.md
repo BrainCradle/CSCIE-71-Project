@@ -2,20 +2,19 @@
 
 ## Forecast
 
-We forecasted that we could get **13 story points** done during this sprint. We forecasted much higher value than sprint 1 (15 points), even after accounting for the Thanksgiving Holiday plans of team members, using Yesterday's Weather Forecasting Pattern. Based on past sprint we feel that our normalized velocity can be three times of what we accomplished in sprint 1, (i.e. 15 points), but given thanksgiving holidays we factored a 80-90% capacity for the team and hence arrived at 13 story points.
+We forecasted that we could get **13 story points** done during this sprint. Using Yesterday's Weather Forecasting Pattern, we forecasted higher value than what we accomplished in sprint 1 (10 points) as we factored in improved productivity resulting in higher velocity. 
 
-The forecast correlated to the next six stories from our [Initial Ordered Product Backlog](https://trello.com/b/qb2G2V5r/product-back-log), with the 'Navigation Experience' Page story being introduced based on stakeholder feedback after release 1.
+The forecast correlated to the next four stories from our [Initial Ordered Product Backlog](https://trello.com/b/qb2G2V5r/product-back-log).
 
 
 
 | __Number__ | __Title__ | __Story Points__ | __Summary__
 | --- | --- | --- | --- |
-| 1. | 'What is AI' page| 3 pts | As a site owner, Andy wants to share an overview with clients that helps them learn the fundamentals about Machine Learning & AI; what makes a Neural Network different from a Web Application; examples of popular real world applications; and, what AI means for the future of business and the human race as a whole. |
-| 2. | 'User Comments' Blog Feature | 1 pts | As a blogger, Andy can leave comments on blog posts to share thoughts, ask the author questions, or discuss ideas with other users. Further as a user Andy would like username and profile image to appear beside the content of his comment so that other user's can clearly identify his comments from other user's comments. Furthermore, other users should be able to "like", "dislike", or "flag" any comments for offensive or inappropriate language.  |
-| 3. | 'User Authentication for Blogs' Blog Feature | 2 pts | As a blogger, Andy wants that other users can clearly identify him from other bloggers. Also, he would like to edit his blogs. For his convenience, Andy wants to be able to log in with his Facebook/Google/Email address. |
-| 4. | 'Navigation Experience' site feature | 2 pts | As a site user, Andy wants tabs to be highlighted to show the current tab and would like a top nav and left nav, instead of dual menus, for easier navigation of the site. |
-| 5. | 'Static Tagging for Category Assignment' Blog Feature | 2 pts | As a site administrator, Andy can use tags and associate it with each blog post so users can eventually filter results based on tags. Here is an initial tag list  "Real World Application", "Class of Neural Network", "Chat Bots", Speech Recognition", "Machine Learning", "Class of Artificial Intelligence". |
-| 6. | 'Upvoting/Downvoting for blogs' Blog Feature | 3 pts | As a site user, Andy wants users to be able up-vote and down-vote blog posts so that the community can filter the best content to the top. |
+| 1. | 'Static Tagging for Category Assignment' Blog/Content Feature| 2 pts | As a site administrator, Andy can use tags and associate it with each blog post so users can eventually filter results based on tags. Here is an initial tag list  "Real World Application", "Class of Neural Network", "Chat Bots", Speech Recognition", "Machine Learning", "Class of Artificial Intelligence". |
+| 2. | 'Upvoting/Downvoting for blogs' Blog Feature | 3 pts | As a site user, Andy wants users to be able up-vote and down-vote blog posts so that the community can filter the best content to the top.  |
+| 3. | 'Examples Pages' content page| 5 pts | As a site user, Andy wants to be able to view a layout of Neural Network Examples that represent each unique class of AI models that currently has as its counterpart a production ready Real-World Application.  |
+| 4. | 'Common AI Applications' site feature | 3 pts | As a site user, Andy can view a list of common AI applications that shows him a brief description of the type of problems being solved, an example of a solution developed using AI, and a brief overview of why AI is the best tool for the job. |
+
 
 ## Kanban Board
 
@@ -25,9 +24,7 @@ We are continuing to use [Trello](https://trello.com/b/qb2G2V5r/product-back-log
 
 ## Actual
 
-We had few hiccups because of unavailability of product owenr during Thanksgiving holidays for clarification on stories, so were able to close only on **4 user stories / 8 story points as against 6 user stories / 15 story points forecasted within the sprint**
-
-We deployed the 4 user stories (What is AI, User Comments on Blogs, User Authentication for Blogs & Navigation Experience) in production at following URL:
+We deployed the 4 user stories (Static Tagging for Category Assignment, Upvoting/Downvoting for blogs, Examples Pages & Common AI Applications) in production at following URL:
 
 [Prod Site](https://braincradleai.firebaseapp.com)
 
@@ -35,29 +32,28 @@ We deployed the 4 user stories (What is AI, User Comments on Blogs, User Authent
 
 Reference our Sprint Tasks & Acceptance Criteria:
 
-1. what is AI
+1. Static Tagging for Category Assignment
 
-![What is AI Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/AI-Home.png).
+![Static Tagging Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/AI-Home.png).
 
-![What is AI](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/What-is-AI.png). 
+![Static Tagging](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/What-is-AI.png). 
 
-2. User Comments
+2. Upvoting/Downvoting for blogs
 
-![User Comments Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Comments_screen.png).
+![Upvoting/Downvoting Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Comments_screen.png).
 
-![User Comments](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Comments.png).
+![Upvoting/Downvoting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Comments.png).
 
-3. User Authentication
+3. Examples Pages 
+![Examples Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth-Screen.png).
 
-![User Auth Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth-Screen.png).
+![Examples](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth.png).
 
-![User Auth](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth.png).
+4. Common AI Applications
 
-4. Navigation Experience
+![Common AI Applications Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/Nav-Screen.png).
 
-![Navigation Experience Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/Nav-Screen.png).
-
-![Navigation Experience](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/NavExperience2.png).
+![Common AI Applications](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/NavExperience2.png).
 
 ## Burndown
 
@@ -69,89 +65,87 @@ Our burndown chart, shown below, is based on the completion of each user story [
 
 ## Daily Scrums (2-day sample)
 
-### Monday, November 20th
+### Tuesday, December 05th
 #### Digant
 _What did you accomplish yesterday?_
 > Decomposed stories into tasks
 
 _What will you do today?_
-> Research on content for blogs
+> Begin Persona Documentation
 
 _What obstacles are impeding your progress?_
-> none
+> examples of what personas look like
 
 #### Shivas
 _What did you accomplish yesterday?_
-> Worked on navigation enhancements.
+> Worked on static tagging.
 
 _What will you do today?_
-> Continue working on navigation enhancements.
+> Continue working on static tagging.
 
 _What obstacles are impeding your progress?_
 > none
 
 #### Ailing
 _What did you accomplish yesterday?_
-> Worked on blog features
+> Worked on BDD scenario
 
 _What will you do today?_
-> Continue working on blog features
+> Complete and test BDD scenario
 
 _What obstacles are impeding your progress?_
 > None
 
-### Sunday, November 25th
+### Sunday, December 10th
 
 #### Digant
 _What did you accomplish yesterday?_
-> Content for Blogs 
+> Readme Documentation
 
 _What will you do today?_
-> Content for Neural Net pages
+>  Big Visible Information Radiators
 
 _What obstacles are impeding your progress?_
 > none
 
 #### Shivas
 _What did you accomplish yesterday?_
->  Reasearch on CI/CD.
+>  TDD & Test Cases
 
 _What will you do today?_
-> Continue working on CI/CD
+> Upvoting/Downvoting.
 
 _What obstacles are impeding your progress?_
-> Limited experience on CI/CD tools
+> None
 
 #### Ailing
 _What did you accomplish yesterday?_
-> Neural Net Overview Page
+> Working on Examples Page
 
 _What will you do today?_
-> Update BDD test suite
+> Continue working on Examples Page
 
 _What obstacles are impeding your progress?_
 > None.
-
 
 ### Impediments
 
 _IRP = Impediment Removal Plan_
 
-#### Shivas - Nov 22nd, 06:45 pm
-> Not sure how to setup CI/CD framework?
+#### Digant - Dec 05, 08:45 pm
+> Can someone share examples of persona
 
-IRP: Links provided on slack (https://medium.com/@ved.pandey/setting-up-jenkins-on-mac-osx-50d8fe16df9f) and (https://houssein.me/continuous-integration-angular-firebase-travisci)
+IRP: Link provided via email (https://app.xtensio.com/folio/v4kkxres?_ga=2.194575789.1455472742.1512796354-1178998796.1512796354)
 
 ## Collaboration
 Our Team met as a group at least 2x per week to synchronize and elevate obstacles along our critical path; additionally, individuals teamed up to pair program in order to solve various engineering tasks.  
 
 | __Date__ | __Meeting Type__ |
 | --- | --- |
-| 20 NOV | Daily Scrum |
-| 22 NOV | Mob Programming |
-| 26 NOV | Daily Scrum |
-| 01 DEC |Standing Team Meeting |
-| 03 Dec | Sprint Review & Retrospective |
+| 05 DEC | Daily Scrum |
+| 10 DEC | Daily Scrum |
+| 12 DEC | Mob Programming |
+| 16 Dec | Sprint Review & Retrospective |
 
 1. Example of a peer code review (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
 
