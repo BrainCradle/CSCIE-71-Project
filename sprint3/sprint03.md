@@ -2,9 +2,9 @@
 
 ## Forecast
 
-We forecasted that we could get **13 story points** done during this sprint. Using Yesterday's Weather Forecasting Pattern, we forecasted higher value than what we accomplished in sprint 1 (10 points) as we factored in improved productivity resulting in higher velocity. 
+We forecasted that we could get **12 story points** done during this sprint. Using Yesterday's Weather Forecasting Pattern, we forecasted 20% higher value than what we accomplished in sprint 2 (10 points) as we factored in improved productivity resulting in higher velocity. 
 
-The forecast correlated to the next four stories from our [Initial Ordered Product Backlog](https://trello.com/b/qb2G2V5r/product-back-log).
+The forecast correlates to the next four stories from our [Initial Ordered Product Backlog](https://trello.com/b/qb2G2V5r/product-back-log).
 
 
 
@@ -13,7 +13,7 @@ The forecast correlated to the next four stories from our [Initial Ordered Produ
 | 1. | 'Static Tagging for Category Assignment' Blog/Content Feature| 2 pts | As a site administrator, Andy can use tags and associate it with each blog post so users can eventually filter results based on tags. Here is an initial tag list  "Real World Application", "Class of Neural Network", "Chat Bots", Speech Recognition", "Machine Learning", "Class of Artificial Intelligence". |
 | 2. | 'Upvoting/Downvoting for blogs' Blog Feature | 3 pts | As a site user, Andy wants users to be able up-vote and down-vote blog posts so that the community can filter the best content to the top.  |
 | 3. | 'Examples Pages' content page| 5 pts | As a site user, Andy wants to be able to view a layout of Neural Network Examples that represent each unique class of AI models that currently has as its counterpart a production ready Real-World Application.  |
-| 4. | 'Common AI Applications' site feature | 3 pts | As a site user, Andy can view a list of common AI applications that shows him a brief description of the type of problems being solved, an example of a solution developed using AI, and a brief overview of why AI is the best tool for the job. |
+| 4. | 'Search for site content' site feature | 2 pts | As a site user, Andy can search for content (examples or blogs) from the home page or examples or blogs page. Andy can use tags associated with each blog posts and solution page to search for, filter results based on "Real World Application", "Class of Neural Network", topic, industry, etc., making it easier to find the content he is looking for. |
 
 
 ## Kanban Board
@@ -149,17 +149,17 @@ Our Team met as a group at least 2x per week to synchronize and elevate obstacle
 
 1. Example of a peer code review (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
 
- ![Code Review](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/mob-program1.png)
+ ![Code Review](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/peer-review.png)
 
 2. Example of a mob programming  (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
 
- ![Mob Programming](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/mob-program3.png)
+ ![Mob Programming](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/mob-program1.png)
 
 3. Example of a standing team meeting
  
- ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/CollabPic1.png)
- ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/CollabPic2.png)
- ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/CollabPic3.png)
+ ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/team-collab1.png)
+ ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/team-collab2.png)
+ ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/team-collab2.png)
  
 
 ### Behavior-Driven Development & Unit Tests
