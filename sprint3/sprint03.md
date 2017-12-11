@@ -24,7 +24,7 @@ We are continuing to use [Trello](https://trello.com/b/qb2G2V5r/product-back-log
 
 ## Actual
 
-We deployed the 4 user stories (Static Tagging for Category Assignment, Upvoting/Downvoting for blogs, Examples Pages & Common AI Applications) in production at following URL:
+We deployed the 4 user stories (Static Tagging for Category Assignment, Upvoting/Downvoting for blogs, Examples Pages & Search for site content) in production at following URL:
 
 [Prod Site](https://braincradleai.firebaseapp.com)
 
@@ -49,19 +49,19 @@ Reference our Sprint Tasks & Acceptance Criteria:
 
 ![Examples](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth.png).
 
-4. Common AI Applications
+4. Search for site content
 
-![Common AI Applications Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/Nav-Screen.png).
+![Search for site content Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/Nav-Screen.png).
 
-![Common AI Applications](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/NavExperience2.png).
+![Search for site content](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/NavExperience2.png).
 
 ## Burndown
 
-Our burndown chart, shown below, is based on the completion of each user story [Refer to Trello for Stories "Done in Sprint 2"](https://trello.com/b/qb2G2V5r/product-back-log) which were decomposed from the PBIs committed to the sprint. 
+Our burndown chart, shown below, is based on the completion of each user story [Refer to Trello for Stories "Done in Sprint 3"](https://trello.com/b/qb2G2V5r/product-back-log) which were decomposed from the PBIs committed to the sprint. 
 
-![Burndown Data for Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/sprint2-burndown-excel2.png)
+![Burndown Data for Sprint 3](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/sprint3-burndown-excel.png)
 
-![Burndown Chart Sprint 1](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/sprint2-burndown-chart.png)
+![Burndown Chart Sprint 3](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/sprint3-burndown-chart2.png)
 
 ## Daily Scrums (2-day sample)
 
@@ -159,7 +159,7 @@ Our Team met as a group at least 2x per week to synchronize and elevate obstacle
  
  ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/team-collab1.png)
  ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/team-collab2.png)
- ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/team-collab2.png)
+ ![Standing Team Meeting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/team-collab3.png)
  
 
 ### Behavior-Driven Development & Unit Tests
