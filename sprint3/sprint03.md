@@ -45,15 +45,15 @@ Reference our Sprint Tasks & Acceptance Criteria:
 ![Upvoting/Downvoting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/voting-tasks.png).
 
 3. Examples Pages 
-![Examples Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth-Screen.png).
+![Examples Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/examples-page.png).
 
-![Examples](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth.png).
+![Examples](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/examples-task.png).
 
 4. Search for site content
 
-![Search for site content Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/Nav-Screen.png).
+![Search for site content Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/search-page.png).
 
-![Search for site content](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/NavExperience2.png).
+![Search for site content](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/search-tasks.png).
 
 ## Burndown
 
