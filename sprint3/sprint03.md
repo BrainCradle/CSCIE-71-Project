@@ -20,7 +20,7 @@ The forecast correlates to the next four stories from our [Initial Ordered Produ
 
 We are continuing to use [Trello](https://trello.com/b/qb2G2V5r/product-back-log) as our Kanban Board and screenshot provided below:
 
-![Kanban Board](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/kanban-board.png).
+![Kanban Board](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/kanban.png).
 
 ## Actual
 
@@ -144,7 +144,7 @@ Our Team met as a group at least 2x per week to synchronize and elevate obstacle
 | --- | --- |
 | 05 DEC | Daily Scrum |
 | 10 DEC | Daily Scrum |
-| 12 DEC | Mob Programming |
+| 13 DEC | Mob Programming |
 | 16 Dec | Sprint Review & Retrospective |
 
 1. Example of a peer code review (part of our [Definition of Done](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/README.md))
@@ -188,7 +188,7 @@ We conducted our sprint review with stakeholders and Scrum Team retrospective on
 
 ### Sprint Review Stakeholder Feeback
 
-We reviewed the sprint 2 user story in production [User Comments for Blogs](https://braincradleai.firebaseapp.com/#/blogs) with an AI student stakeholder, Hazem Salama, who is a software engineer with Verizon Communications and a student at Harvard Extension School. Hazem is pleased with the progress of our efforts. He offered the following feedback on the blog functionality, mostly looking towards the next sprint:
+We reviewed the sprint 3 user story in production [User Comments for Blogs](https://braincradleai.firebaseapp.com/#/blogs) with an AI student stakeholder, Hazem Salama, who is a software engineer with Verizon Communications and a student at Harvard Extension School. Hazem is pleased with the progress of our efforts. He offered the following feedback on the blog functionality, mostly looking towards the next sprint:
 
 - I like the simple design of the blog and it looks very pleasing
 - The navigation is easy and not complicated
@@ -203,9 +203,9 @@ This feedback will be absorbed into the product backlog (and groomed) ahead of s
 
 While the retrospective is a generally closed door event, we chose to share these highlights:
 
-- Finalzing right CI/CD framework took time as there were many choices. Narrowing focus to couple of frameworks and quick PoCs helped finalize the right tool.
-- There was confusion on Sprint 1 feedback/grades from Richard. Clarifying it on slack channel helped provide feedback on how to improve in Sprint 2
-- Not having product owner available during holidays hampered our ability to complete couple of stories as we needed clarification on the story. We then came to an agreement with product owner that we would deliver only 4 stories since the sprint window was too short post clarification. To mitigate this we have now obtained emergency contact details of the entire team in case we need to reach anybody on emergency basis.
+- There was confusion on Sprint 2 feedback/grades from Richard particularly on unit tests. Clarifying it on slack and video conference with Richard helped provide feedback on how to improve in Sprint 3
+- Team has now gone into performing mode and we can significantly improve our velocity in future sprints.
+- The whole team benefitted from this experience and feels confidence on championing agile projects in their respective workplaces
 
 ### Continuous Integration / Continuous Deployment
 We also solidified our CI/CD process in this sprint (started in sprint1).
