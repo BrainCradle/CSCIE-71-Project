@@ -8,7 +8,7 @@ The forecast correlates to the next four stories from our [Initial Ordered Produ
 
 
 
-| __Number__ | __Title__ | __Story Points__ | __Summary__
+| __Number__ | __Title__ | __Story Points__ | __User Stories__
 | --- | --- | --- | --- |
 | 1. | 'Static Tagging for Category Assignment' Blog/Content Feature| 2 pts | As a site administrator, Andy can use tags and associate it with each blog post so users can eventually filter results based on tags. Here is an initial tag list  "Real World Application", "Class of Neural Network", "Chat Bots", Speech Recognition", "Machine Learning", "Class of Artificial Intelligence". |
 | 2. | 'Upvoting/Downvoting for blogs' Blog Feature | 3 pts | As a site user, Andy wants users to be able up-vote and down-vote blog posts so that the community can filter the best content to the top.  |
@@ -34,15 +34,15 @@ Reference our Sprint Tasks & Acceptance Criteria:
 
 1. Static Tagging for Category Assignment
 
-![Static Tagging Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/AI-Home.png).
+![Static Tagging Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/static-tags.png).
 
-![Static Tagging](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/What-is-AI.png). 
+![Static Tagging](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/tagging-tasks.png). 
 
 2. Upvoting/Downvoting for blogs
 
-![Upvoting/Downvoting Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Comments_screen.png).
+![Upvoting/Downvoting Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/blog-voting.png).
 
-![Upvoting/Downvoting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Comments.png).
+![Upvoting/Downvoting](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/voting-tasks.png).
 
 3. Examples Pages 
 ![Examples Prod Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/User-Auth-Screen.png).
