@@ -164,7 +164,7 @@ Our Team met as a group at least 2x per week to synchronize and elevate obstacle
 
 ### Behavior-Driven Development & Unit Tests
 
-We continued to use the [cucumber](https://cucumber.io/) framework and  [selenium](http://www.seleniumhq.org/) to run our Behavior-Driven Development (BDD) tests. Specifically we tested user login for blog view using BDD. See the screenshots below (showing test failed and then passed). 
+We continued to use the [cucumber](https://cucumber.io/) framework and  [selenium](http://www.seleniumhq.org/) to run our Behavior-Driven Development (BDD) tests. Specifically we tested upvoting and downvoting for a blog  using BDD. See the screenshots below (showing test failed and then passed). 
 
 ![BDD Fail Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/BDD-fail.png)
    
