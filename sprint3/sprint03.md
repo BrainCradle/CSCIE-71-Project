@@ -174,18 +174,12 @@ We continued to use the [cucumber](https://cucumber.io/) framework and  [seleniu
    
 Our TDD and unit tests (we have used tool called Karma) are shown below including a failed one and passed ones.
 
-![TDD fail](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/TDD-fail.png)
+![TDD fail](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/TDD-failures.png)
 
 
-![TDD fail2](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/TDD-pass.png)
-
-
-![Unit cases passed](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/TestCases-Passed.png)
+![Unit cases passed](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/Tests-pass.png)
  
   
-![Refer to console](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/TDD-success.png)
- 
-
 The unit test cases are checked here: https://github.com/BrainCradle/BrainCradle/tree/master/braincradleapp/tests
 
 ## Sprint Review and Retrospective
@@ -219,7 +213,7 @@ We also solidified our CI/CD process in this sprint (started in sprint1).
 
 Travis CI is a continuous integration platform we are using with your Github projects. Using Travis we have Build Pushes and Build Pull Requests turned ON. This means that anytime we push our changes to our Github repository or merge a pull-request, Travis CI will trigger a build and runs  tests every time we push to our branch (or merge a pull request) - see image below. Once the build succeeds it triggers a script to deploy the build to Firebase in production.
 
- ![Travis Process](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/mob-program2.png)
+ ![Travis CI success](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/CI.png)
 
-![Travis process](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/Travis_pic.png)
+![Travis CD success](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/CD.png)
 
