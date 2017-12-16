@@ -166,9 +166,9 @@ Our Team met as a group at least 2x per week to synchronize and elevate obstacle
 
 We continued to use the [cucumber](https://cucumber.io/) framework and  [selenium](http://www.seleniumhq.org/) to run our Behavior-Driven Development (BDD) tests. Specifically we tested user login for blog view using BDD. See the screenshots below (showing test failed and then passed). 
 
-![BDD Fail Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/BDD-fail.png)
+![BDD Fail Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/BDD-fail.png)
    
- ![BDD Pass Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/Sprint%202/BDD-pass.png)
+ ![BDD Pass Screen](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/BDD-pass.png)
  
  BDD source code is checked here: https://github.com/BrainCradle/BrainCradle/tree/master/BDD
    
@@ -176,6 +176,7 @@ Our TDD and unit tests (we have used tool called Karma) are shown below includin
 
 ![TDD fail](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/TDD-failures.png)
 
+![Test Cases](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/test-cases.png)
 
 ![Unit cases passed](https://github.com/BrainCradle/CSCIE-71-Project/blob/master/sprint3/Tests-pass.png)
  
@@ -188,16 +189,16 @@ We conducted our sprint review with stakeholders and Scrum Team retrospective on
 
 ### Sprint Review Stakeholder Feeback
 
-We reviewed the sprint 3 user story in production [User Comments for Blogs](https://braincradleai.firebaseapp.com/#/blogs) with an AI student stakeholder, Hazem Salama, who is a software engineer with Verizon Communications and a student at Harvard Extension School. Hazem is pleased with the progress of our efforts. He offered the following feedback on the blog functionality, mostly looking towards the next sprint:
+We reviewed the sprint 3 user stories in production (https://braincradleai.firebaseapp.com/#/) with our product owner Devon Luongowho is an AI enthusiast and a student at Harvard Extension School. He is pleased with the progress of our efforts. He offered the following feedback on the upvoting/downvoting and site search functionality, mostly looking towards the next sprint:
 
-- I like the simple design of the blog and it looks very pleasing
-- The navigation is easy and not complicated
-- I cannot vote up blog entries
-- When I try to enter a comment but decide to cancel, the cancel button does not function as expected
-- Tab order is not working as expected
-- When I expand a blog entry to read the full blog and press the back button then it takes me back to previous page. Its slightly confusing
+- The blog creation widget is clean, simple, and flexible. It allows those who know HTML to create more robust post designs by leveraging the bootstrap environment, while not overloading non-technical people. 
+- The ability to search for content by use case is awesome. 
+- The rigid tagging will help to maintain organization. I like that I can enter tags by typing into a textbox (that also functions like a drop down menu). 
+- I should be able to see the upvote/downvote values even when not signed in. CUrrently it is visible only when I am logged in.
+- As content expands, it would be nice to search by topic or keyword and find all related content
+- I'd like for "add" button to be disabled for the examples section. This should be a place where only site admins associated with Brain Cradle can add content. The blogs sections is the designated open forum. 
 
-This feedback will be absorbed into the product backlog (and groomed) ahead of sprint 3 planning.
+This feedback will be absorbed into the product backlog (and groomed) ahead of sprint 4 planning.
  
 ### Scrum Team Retrospective
 
