@@ -185,11 +185,11 @@ The unit test cases are checked here: https://github.com/BrainCradle/BrainCradle
 
 ## Sprint Review and Retrospective
 
-We conducted our sprint review with stakeholders and Scrum Team retrospective on NOV 19TH. 
+We conducted our sprint review with stakeholders and Scrum Team retrospective on DEC 16TH. 
 
 ### Sprint Review Stakeholder Feeback
 
-We reviewed the sprint 3 user stories in production (https://braincradleai.firebaseapp.com/#/) with our product owner Devon Luongowho is an AI enthusiast and a student at Harvard Extension School. He is pleased with the progress of our efforts. He offered the following feedback on the upvoting/downvoting and site search functionality, mostly looking towards the next sprint:
+We reviewed the sprint 3 user stories in production (https://braincradleai.firebaseapp.com/#/) with our product owner Devon Luongo who is an AI enthusiast and a student at Harvard Extension School. He is pleased with the progress of our efforts. He offered the following feedback on the upvoting/downvoting and site search functionality, mostly looking towards the next sprint:
 
 - The blog creation widget is clean, simple, and flexible. It allows those who know HTML to create more robust post designs by leveraging the bootstrap environment, while not overloading non-technical people. 
 - The ability to search for content by use case is awesome. 
